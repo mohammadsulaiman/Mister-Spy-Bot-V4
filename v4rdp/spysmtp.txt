@@ -1,0 +1,640 @@
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = tashi.wangd@gmail.com
+ SMTP Password = sonamtashi
+SMTP Port = 465
+SMTP Host = smtp.gmail.com
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = raaman.rai@gmail.com
+ SMTP Password = w4kt5h4lee
+SMTP Port = 465
+SMTP Host = smtp.gmail.com
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = smtp.gmail.com
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = kumargajmer@dhi.bt
+ SMTP Password = Drukholding
+SMTP Port = 25
+SMTP Host = smtp.gmail.com
+ SMTP INFO
+ SMTP User = info@1008art.com
+ SMTP Password = maya4811masouD
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = info@ArchiveAmlak.ir
+ SMTP Password = payvand@09121888533
+SMTP Port = 25
+SMTP Host = mail.archiveamlak.ir
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = public@arianatech.net
+ SMTP Password = MahdI@1394
+SMTP Port = 25
+SMTP Host = webmail.arianatech.net
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = example.com
+ SMTP INFO
+ SMTP User = website@bkgco.com
+ SMTP Password = athlon64
+SMTP Port = 25
+SMTP Host = mail.bkgco.com
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = mail.cggcs.com
+ SMTP INFO
+ SMTP User = info@chalesh.ir
+ SMTP Password = 21Sj18nxwT
+SMTP Port = 25
+SMTP Host = mail.chalesh.ir
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = info@farayandsood.com
+ SMTP Password = ahhnen08622
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = info@himed.ir
+ SMTP Password = hamed1192
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = example.com
+ SMTP INFO
+ SMTP User = info@kormitpars.ir
+ SMTP Password = 1361canada
+SMTP Port = 587
+SMTP Host = 87.247.177.52
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = admin@mahyar-charity.ir
+ SMTP Password = Justice0
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = info@mobicomco.com
+ SMTP Password = Yahosein9525
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = info@nadershoes.com
+ SMTP Password = Ns@1394
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = Ohadcompany@ohadmed.com
+ SMTP Password = Ohad1394!@#
+SMTP Port = 25
+SMTP Host = mail.ohadmed.com
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = example.com
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = example.com
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = portouch.com
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = example.com
+ SMTP INFO
+ SMTP User = public@rahshoolder.com
+ SMTP Password = r@hSHOOLDER#95
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = support@rastin.co
+ SMTP Password = rastin88**
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = example.com
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = example.com
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 587
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = noreply@telferco.com
+ SMTP Password = No123$%
+SMTP Port = 25
+SMTP Host = telferco.com
+ SMTP INFO
+ SMTP User = 
+ SMTP Password = 
+SMTP Port = 25
+SMTP Host = localhost
+ SMTP INFO
+ SMTP User = kharaman@zistap.com
+ SMTP Password = zist987654321
+SMTP Port = 25
+SMTP Host = mail.zistap.com
